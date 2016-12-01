@@ -1,21 +1,18 @@
-# Lunar-Lander
+# Lunar Lander HTML y CSS
 
 **Versión 0.1:**
 
-En principio he seguido las intrucciones que me proporciono el cliente.
-Pero he cambiado, la imagen de la superficie lunar porque la que me proporciono el cliente se veia muy pixelada.
-
-He añadido el menu css, pero no es igual que el que pedia el cliente, ya que pedia que cuando el boton estubiera 
-activado saliesen las opciones en medio (lo cual no he encontrado, y era muy trabajoso de hacer).
-En su lugar he hecho un menu desplegable con css.
+He seguido las instrucciones del trabajo que tenía.
+El fondo tenía una resolución muy pequeña y la modifiqué.
 
 **Versión 0.2:**
 
-He realizado tanto la versión horizontal como la vertical.
+Añadida versión para escritorio y otra para móvil.
 
-**Versión 0.3:**
+Nuevo menú desplegable añadido, pero distinto al del trabajo a causa de la falta de botones.
 
-He unido las dos versiones en una con la utilización del media queries.
-Lo que hace que a diferentes resoluciones utilice un css o otro (desktop.css o phone.css).
+**Versión 0.2.1:**
 
-**Toni Garcia Llabres**
+Mejorada la versión para escritorio y móvil con la utilizacion de media-queries, haciendo que con distintos tamaños de pantalla se aplique un css u otro.
+
+**Joan Socias Ramírez**
