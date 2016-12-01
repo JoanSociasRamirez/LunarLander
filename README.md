@@ -1,5 +1,7 @@
 # Lunar Lander HTML y CSS
 
+**Joan Socias Ramírez**
+
 **Versión 0.1:**
 
 He seguido las instrucciones del trabajo que tenía.
@@ -15,4 +17,4 @@ Nuevo menú desplegable añadido, pero distinto al del trabajo a causa de la fal
 
 Mejorada la versión para escritorio y móvil con la utilizacion de media-queries, haciendo que con distintos tamaños de pantalla se aplique un css u otro.
 
-**Joan Socias Ramírez**
+
