@@ -57,7 +57,7 @@ p{
 	font-family: Georgia;
 }
 
-/*css del menu deplegable*/
+/*menu*/
 
 .menubtn {
 	text-align:center;
@@ -70,6 +70,12 @@ p{
 	width:80%;
 	
 }
+
+.menutbtn img{
+	width:40%;
+	
+}
+
 .menudown img{
 	width:200%;
 
