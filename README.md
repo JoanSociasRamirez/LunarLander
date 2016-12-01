@@ -1,6 +1,6 @@
 # Lunar Lander HTML y CSS
 
-**Joan Socias Ramírez**
+Desarrolado por **Joan Socias Ramírez**
 
 **Versión 0.1:**
 
