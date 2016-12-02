@@ -17,7 +17,7 @@ Nuevo menú desplegable añadido, pero distinto al del trabajo a causa de la fal
 
 Mejorada la versión para escritorio y móvil con la utilizacion de media-queries, haciendo que con distintos tamaños de pantalla se aplique un css u otro.
 
-**Versión 1:"
+**Versión 1:**
 
 El proyecto final consta de 3 páginas HTML y 2 CSS, uno para escritorio y otro para móvil:
 
