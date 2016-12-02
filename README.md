@@ -22,7 +22,7 @@ Mejorada la versión para escritorio y móvil con la utilizacion de media-querie
 El proyecto final consta de 3 páginas HTML y 2 CSS, uno para escritorio y otro para móvil:
 
 * index.html, página dividida en tres "div", cada uno del 33.3% de tamaño respecto al total de la pantalla.
-* control.html, página  se encuentran las instrucciones para jugar.
+* control.html, página donde se encuentran las instrucciones para jugar.
 * about.html, información sobre el juego, su desarrollador y contribuidores.
-* desktop.css y phone.css, Hoja de estilos de los 3 htmls. Es responsive y alterna de escritorio a móvil dependiendo del tamaño de la pantalla.
+* desktop.css y phone.css, Hoja de estilos de los 3 htmls. Responsive y alterna de escritorio a móvil dependiendo del tamaño de la pantalla.
 
